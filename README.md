@@ -6,9 +6,6 @@
 
 # Cpf
 
-[![][build-img]][build]
-[![][nuget-img]][nuget]
-
 Validação e formatação das documentações brasileiras de CPF e CNPJ.
 
 ## Usage
