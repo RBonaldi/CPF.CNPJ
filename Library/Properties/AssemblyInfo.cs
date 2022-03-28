@@ -9,10 +9,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Cpf.Cnpj")]
 [assembly: AssemblyDescription("Validar e formatar os valores de CNPJ e CPF. Documentação Brasileira")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Rafael Bonaldi Simões")]
-[assembly: AssemblyProduct("Rafael Bonaldi Simões")]
-[assembly: AssemblyCopyright("Rafael Bonaldi Simões")]
-[assembly: AssemblyTrademark("Rafael Bonaldi Simões")]
+[assembly: AssemblyCompany("Rafael Bonaldi - rafaelbonaldi@gmail.com")]
+[assembly: AssemblyProduct("Rafael Bonaldi - rafaelbonaldi@gmail.com")]
+[assembly: AssemblyCopyright("Rafael Bonaldi - rafaelbonaldi@gmail.com")]
+[assembly: AssemblyTrademark("Rafael Bonaldi - rafaelbonaldi@gmail.com")]
 [assembly: AssemblyCulture("")]
 
 // CA1014: Mark assemblies with CLSCompliantAttribute
