@@ -24,5 +24,16 @@
 
 			return false;
 		}
+
+		private static bool NumerosIguais(string numero)
+		{
+			char comparar = numero.ToString()[0];
+			foreach (var n in numero.ToString())
+			{
+				if (comparar != n)
+					return false;
+			}
+			return true;
+		}
 	}
 }
