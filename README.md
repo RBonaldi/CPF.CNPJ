@@ -20,13 +20,19 @@ Digit check and formatting on Brazilian Individual Taxpayer Registry ([CPF]).
 ## Usage
 
 ```cs
-using CpfLibrary;
+using CpfCnpjLibrary;
 
-Cpf.Check("29594421134");    // True
-Cpf.Check("488.081.131-91"); // True
-Cpf.Check("00000000000");    // False
-Cpf.Check("lol");            // False
+Cpf.Validar("08597471077");    // True
+Cpf.Validar("8597471077");     // True (0 à esquerda)
+Cpf.Validar("716.603.990-68"); // True
+Cpf.Validar("00000000000");    // False
+Cpf.Validar("xpto");            // False
 
-Cpf.Format("29594421134"); // "295.944.211-34"
-Cpf.Format("lol");         // "lol"
+Cpf.FormatarComPontuacao("08597471077"); // "085.974.710-77"
+Cpf.FormatarComPontuacao("085.974.710-77"); // "085.974.710-77"
+Cpf.FormatarComPontuacao("xpto");         // "xpto"
+
+Cpf.FormatarSemPontuacao("085.974.710-77"); // "08597471077"
+Cpf.FormatarSemPontuacao("08597471077"); // "08597471077"
+Cpf.FormatarSemPontuacao("xpto");         // "xpto"
 ```
