@@ -1,6 +1,5 @@
 ﻿namespace CpfCnpjLibrary.Test
 {
-    using CpfCnpjLibrary;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
     [TestClass]
