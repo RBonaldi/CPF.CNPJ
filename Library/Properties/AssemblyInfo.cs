@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Cpf.Cnpj")]
-[assembly: AssemblyDescription("Validar e formatar os valores de CNPJ e CPF. Documentação Brasileira")]
+[assembly: AssemblyDescription("Validar e/ou formatar os valores de CPF e CNPJ. Documentação Brasileira")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Rafael Bonaldi - rafaelbonaldi@gmail.com")]
 [assembly: AssemblyProduct("Rafael Bonaldi - rafaelbonaldi@gmail.com")]
@@ -36,6 +36,6 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("0.0.1.2")]
-[assembly: AssemblyFileVersion("0.0.1.2")]
+[assembly: AssemblyVersion("0.0.1.3")]
+[assembly: AssemblyFileVersion("0.0.1.3")]
 [assembly: NeutralResourcesLanguage("pt-BR")]
