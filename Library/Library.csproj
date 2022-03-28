@@ -8,7 +8,7 @@
     <ProjectGuid>{A909F0B6-713A-45E0-88D4-B34C78E8B58C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CpfCnpjAssistente</RootNamespace>
+    <RootNamespace>CpfCnpjLibrary</RootNamespace>
     <AssemblyName>Cpf.Cnpj</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

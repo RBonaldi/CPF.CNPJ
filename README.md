@@ -9,13 +9,7 @@
 [![][build-img]][build]
 [![][nuget-img]][nuget]
 
-Digit check and formatting on Brazilian Individual Taxpayer Registry ([CPF]).
-
-[build]:     https://ci.appveyor.com/project/TallesL/net-Cpf
-[build-img]: https://ci.appveyor.com/api/projects/status/github/tallesl/net-Cpf?svg=true
-[nuget]:     https://www.nuget.org/packages/Cpf
-[nuget-img]: https://badge.fury.io/nu/Cpf.svg
-[CPF]:       http://en.wikipedia.org/wiki/Cadastro_de_Pessoas_F%C3%ADsicas
+Validação e formatação das documentações brasileiras de CPF e CNPJ.
 
 ## Usage
 
