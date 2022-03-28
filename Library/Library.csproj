@@ -1,19 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-    <AssemblyTitle>Cpf.Cnpj</AssemblyTitle>
-    <Description>Validar e/ou formatar os valores de CPF e CNPJ. Documentação brasileira.</Description>
-    <PackageTags>cpf;cnpj;validar;formatar; validar cpf; validar cnpj; formatar cpf; formatar cnpj</PackageTags>
-    <Authors>Rafael Bonaldi - rafaelbonaldix@gmail.com</Authors>
-    <RepositoryUrl>https://github.com/RBonaldi/CPF.CNPJ</RepositoryUrl>
-    <PackageLicenseUrl>
-    </PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/RBonaldi/CPF.CNPJ</PackageProjectUrl>
-    <PackageIconUrl>https://github.com/RBonaldi/CPF.CNPJ/blob/master/Assets/logo.png?raw=true</PackageIconUrl>
-    <Copyright>Copyright © 2022 Rafael Bonaldi</Copyright>
-  </PropertyGroup>
-  <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
