@@ -3,11 +3,11 @@
         <img alt="logo" src="Assets/logo.png">
     </a>
 </p>
-
-# Cpf
+<br>
 
 Validação e formatação das documentações brasileiras de CPF e CNPJ.
 
+# Cpf
 ## Usage
 
 ```cs
