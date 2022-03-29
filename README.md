@@ -26,9 +26,10 @@ Cpf.FormatarSemPontuacao("085.974.710-77"); // "08597471077"
 Cpf.FormatarSemPontuacao("08597471077"); // "08597471077"
 Cpf.FormatarSemPontuacao("xpto");         // "xpto"
 
+```cs
+
 # Cnpj
 
-```cs
 using CpfCnpjLibrary;
 
 Cnpj.Validar("00358823000193");    // True
@@ -44,4 +45,5 @@ Cnpj.FormatarComPontuacao("xpto");         // "xpto"
 Cnpj.FormatarSemPontuacao("00.358.823/0001-93"); // "00358823000193"
 Cnpj.FormatarSemPontuacao("358823000193"); // "00358823000193"
 Cnpj.FormatarSemPontuacao("xpto");         // "xpto"
-```
+
+```cs
