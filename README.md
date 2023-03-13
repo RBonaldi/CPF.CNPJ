@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#cpf">
-        <img alt="logo" src="Assets/logo.png">
+        <img style="width: 250px;" alt="logo" src="Assets/logo.png">
     </a>
 </p>
 <br>
